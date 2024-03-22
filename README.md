@@ -23,7 +23,7 @@ To implement such a runner, create an object that implements interface `Scenario
 
 ## Alternate implementation
 
-There is an equivalent Rust implementation here: https://github.com/dharitri-org/mx-sdk-rs/tree/master/sdk/scenario-format
+There is an equivalent Rust implementation here: https://github.com/dharitri-org/drt-sdk-rs/tree/master/sdk/scenario-format
 
 The Go implementation (this one) is older and generally tends to be better featured, altough they should be up-to-date with one another now.
 
